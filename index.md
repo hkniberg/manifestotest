@@ -2,6 +2,6 @@
 title: Agile Manifesto
 ---
 
-Test 2....
+Test 3....
 
 {% include manifesto.html %}
